@@ -16,6 +16,9 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Observações
+    Não aparece o username e senha pois acredito ser um erro na versão do Kali disponibilizada no repositorio da DIO para o curso.
+
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text]( /passwd.png "Optional title")
